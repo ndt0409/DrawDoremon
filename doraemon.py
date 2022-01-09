@@ -1,4 +1,3 @@
-#Ms Computer Classes
 from turtle import *
 import turtle
 wn = turtle.Screen()
@@ -111,9 +110,6 @@ def black_eyes():
     circle(5)
     end_fill()
     my_goto(0, 0)
-
-
-
 
 def face():
 
